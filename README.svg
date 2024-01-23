@@ -93,17 +93,7 @@
                         <p>- 📧 <b>Email:</b> felipe.lucca.t.oliveira@gmail.com</p>
                         <p>- 📍 <b>Localização:</b> Betim, Minas Gerais</p>
                         <p>- 🌐 <b>Portfólio:</b> <a href="https://ofelipelucca.github.io/portifolio">ofelipelucca.github.io/portifolio</a></p>
-                    </div>
-                    <div class="row-blocks" style="margin-top: 4%">
-                            <img alt="c logo" src="https://seeklogo.com/images/C/c-language-logo-CE0F92E683-seeklogo.com.png" height="25px"/>
-                            <img alt="c++ logo" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="25px" style="margin-right: 5px"/>
-                            <img alt="c# logo" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="25px" style="margin-right: 5px"/>
-                            <img alt="nodejs logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="50px" style="margin-right: 5px"/>
-                            <img alt="python logo" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="27px" style="margin-right: 5px"/>
-                            <img alt="javascript logo" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="21px" style="margin-right: 5px"/>
-                            <img alt="github logo" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" width="25px" style="margin-right: 5px"/>
-                            <img alt="opencv logo" src="https://seeklogo.com/images/O/opencv-logo-A38F97FD2C-seeklogo.com.png" width="24px" style="margin-right: 5px"/>
-                    </div>                
+                    </div>               
                     <div class="row-blocks" style="margin-top: 4%">
                         <h1>INTERESSES E OBJETIVOS</h1>
                         <p>Atualmente trabalho como freelancer de pequenos projetos usando diversas tecnologias. <b>Estou buscando oportunidades como desenvolvedor júnior</b> nessa área que eu tanto amo, para aplicar e expandir meus conhecimentos. Meu sonho é me tornar uma referência como desenvolvedor Full Stack, e estou animado para enfrentar novos desafios e aprender constantemente!</p>
