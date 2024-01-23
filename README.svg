@@ -1,0 +1,120 @@
+<svg fill="none" viewBox="0 0 1440 1440" width="auto" height="auto" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					margin: 0;
+					width: 100%;
+					height: 100%;
+                    padding: 2%;
+                    background: linear-gradient(-45deg, #000000, #000000, #261925);
+					background-size: 600% 400%;
+					border-radius: 10px;
+					color: white;
+					text-align: center;
+				}
+
+                .row-blocks {
+                    width: 100%; 
+                    height: auto;
+                    margin-right: 6%; 
+                    background: linear-gradient(0deg, #121212, #141414, #141414); 
+                    border-radius: 30px; 
+                    padding: 5%;
+                }
+
+				h1 {
+					font-size: 50px;
+					line-height: 1.3;
+					letter-spacing: 9px;
+					text-transform: uppercase;
+					text-shadow:
+						0 1px 0 #efefef,
+						0 2px 0 #efefef,
+						0 3px 0 #efefef,
+						0 4px 0 #efefef,
+						0 12px 5px rgba(0, 0, 0, 0.1);
+				}
+
+				p {
+					font-size: 16px;
+                    letter-spacing: 1.2px;
+					text-align: left;
+				}
+			</style>
+			<div class="container" style="display: flex;">
+                <div style="display: block; width: 53%">
+                    <div class="row-blocks">
+                        <h1>SOBRE MIM</h1>
+                        <p>- 👋 <b>Tenho 19 anos e sou um apaixonado por programação e desenvolvimento (desde os 11 anos).</b></p>
+                        <p>- 🖤 Nascido e criado em Minas Gerais, <b>atleticano de berço!</b></p>
+                        <p>- 💬 Gosto de conversar sobre qualquer assunto! Futebol, Vôlei, Música, Filmes, Games, Tecnologia...</p>
+                    </div>
+                    <div class="row-blocks" style="margin-top: 4%">
+                        <h1>HABILIDADES</h1>
+                        <p>- 🖥️ <b>Linguagens de Programação:</b> C, C++, C#, JavaScript, Python</p> 
+                        <p>- 🛠️ <b>Frameworks:</b> OpenCV, Qt, .NET Core, Node.js</p> 
+                        <p>- 🌐 <b>Desenvolvimento Web!</b></p>
+                        <p>- 🔗 <b>Experiência lidando com APIs!</b></p>
+                        <p>- 🤖 <b>Experiência com Visão Computacional!</b></p>
+                        <p>- 📂 <b>Controle de Versão:</b> Git</p> 
+                    </div>
+                    <div class="row-blocks" style="margin-top: 4%">
+                        <h1>MEU PERFIL</h1>
+                        <p>- 💻 Conhecimento nas principais linguagens de programação</p>
+                        <p>- 🌐 Desenvolvimento web com as principais tecnologias do mercado</p>
+                        <p>- 🖥️ Conhecimento em redes de computadores e sistemas operacionais</p>
+                        <p>- 🚀 Habilidade em resolução de problemas e análise de dados</p>
+                        <p>- 🤝 Excelente trabalho em equipe e habilidades de comunicação</p>
+                        <p>- 🧠 Boa e fácil aprendizagem e adaptação</p>
+                    </div>
+                    <div class="row-blocks" style="margin-top: 4%">
+                        <h1>EXPERIÊNCIAS</h1>   
+                        <p><i>(Dev Freelancer)</i></p>
+                        <p><b>Desenvolvimento completo do projeto ‘TwitchPlays’</b>, utilizando Node.Js para integração com a API da Twitch e C++ para realizar os inputs de tecla. O projeto recebe as mensagens enviadas no chat e realiza o comando mais enviado num intervalo de N comentários.</p>
+                        <p><b>Desenvolvimento completo do projeto ‘GestureGameplay’</b>, utilizando os Frameworks Mediapipe e OpenCV para tratar os frames, estipular a pose das mãos e reconhecer gestos. Totalmente desenvolvido em C++, quando um gesto é detectado, seu input de tecla correspondente é executado.</p>
+                        <p><b>Desenvolvimento adicional do projeto ‘TwitchPlaysRPG'</b>, que utiliza as APIs TwitchIO para se conectar a um chat. O usuário pode escolher até 3 participantes do bate-papo para ter suas mensagens automaticamente dubladas por IA, através do serviço da Microsoft Azure. Este projeto é majoritariamente desenvolvido em Python, mas usa também JavaScript para criar um site no host local a fim de gerenciar os usuários escolhidos e suas respectivas vozes.</p>
+                    </div>
+                </div>
+                <div style="display: block; width: 30%; margin-left: 10%;">
+                    <div class="row-blocks">
+                        <h1>CONTATO</h1>
+                        <p>- 📧 <b>Email:</b> felipe.lucca.t.oliveira@gmail.com</p>
+                        <p>- 📍 <b>Localização:</b> Betim, Minas Gerais</p>
+                        <p>- 🌐 <b>Portfólio:</b> <a href="https://ofelipelucca.github.io/portifolio">ofelipelucca.github.io/portifolio</a></p>
+                    </div>
+                    <div class="row-blocks" style="margin-top: 4%">
+                            <image href="https://seeklogo.com/images/C/c-language-logo-CE0F92E683-seeklogo.com.png" height="25px"/>
+                            <image alt="c++ logo" href="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="25px" style="margin-right: 5px"/>
+                            <image alt="c# logo" href="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="25px" style="margin-right: 5px"/>
+                            <image alt="nodejs logo" href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="50px" style="margin-right: 5px"/>
+                            <image alt="python logo" href="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="27px" style="margin-right: 5px"/>
+                            <image alt="javascript logo" href="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="21px" style="margin-right: 5px"/>
+                            <image alt="github logo" href="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" width="25px" style="margin-right: 5px"/>
+                            <image alt="opencv logo" href="https://seeklogo.com/images/O/opencv-logo-A38F97FD2C-seeklogo.com.png" width="24px" style="margin-right: 5px"/>
+                    </div>                
+                    <div class="row-blocks" style="margin-top: 4%">
+                        <h1>INTERESSES E OBJETIVOS</h1>
+                        <p>Atualmente trabalho como freelancer de pequenos projetos usando diversas tecnologias. <b>Estou buscando oportunidades como desenvolvedor júnior</b> nessa área que eu tanto amo, para aplicar e expandir meus conhecimentos. Meu sonho é me tornar uma referência como desenvolvedor Full Stack, e estou animado para enfrentar novos desafios e aprender constantemente!</p>
+                    </div>
+                    <div class="row-blocks" style="margin-top: 4%"> 
+                        <h1>FORMAÇÃO</h1>
+                        <p>- 🎓 Graduando em <b>Engenharia de Sistemas</b> na Universidade Federal de Minas Gerais (2023-2028)</p>
+                        <p>- 👨‍💻 Conhecimento em <b>Redes de Computadores</b> no SENAI (2020-2021)</p>
+                    </div>
+                </div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
