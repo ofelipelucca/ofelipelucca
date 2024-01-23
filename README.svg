@@ -71,15 +71,6 @@
                         <p>- 📂 <b>Controle de Versão:</b> Git</p> 
                     </div>
                     <div class="row-blocks" style="margin-top: 4%">
-                        <h1>MEU PERFIL</h1>
-                        <p>- 💻 Conhecimento nas principais linguagens de programação</p>
-                        <p>- 🌐 Desenvolvimento web com as principais tecnologias do mercado</p>
-                        <p>- 🖥️ Conhecimento em redes de computadores e sistemas operacionais</p>
-                        <p>- 🚀 Habilidade em resolução de problemas e análise de dados</p>
-                        <p>- 🤝 Excelente trabalho em equipe e habilidades de comunicação</p>
-                        <p>- 🧠 Boa e fácil aprendizagem e adaptação</p>
-                    </div>
-                    <div class="row-blocks" style="margin-top: 4%">
                         <h1>EXPERIÊNCIAS</h1>   
                         <p><i>(Dev Freelancer)</i></p>
                         <p><b>Desenvolvimento completo do projeto ‘TwitchPlays’</b>, utilizando Node.Js para integração com a API da Twitch e C++ para realizar os inputs de tecla. O projeto recebe as mensagens enviadas no chat e realiza o comando mais enviado num intervalo de N comentários.</p>
@@ -93,7 +84,7 @@
                         <p>- 📧 <b>Email:</b> felipe.lucca.t.oliveira@gmail.com</p>
                         <p>- 📍 <b>Localização:</b> Betim, Minas Gerais</p>
                         <p>- 🌐 <b>Portfólio:</b> <a href="https://ofelipelucca.github.io/portifolio">ofelipelucca.github.io/portifolio</a></p>
-                    </div>               
+                    </div>          
                     <div class="row-blocks" style="margin-top: 4%">
                         <h1>INTERESSES E OBJETIVOS</h1>
                         <p>Atualmente trabalho como freelancer de pequenos projetos usando diversas tecnologias. <b>Estou buscando oportunidades como desenvolvedor júnior</b> nessa área que eu tanto amo, para aplicar e expandir meus conhecimentos. Meu sonho é me tornar uma referência como desenvolvedor Full Stack, e estou animado para enfrentar novos desafios e aprender constantemente!</p>
@@ -102,6 +93,15 @@
                         <h1>FORMAÇÃO</h1>
                         <p>- 🎓 Graduando em <b>Engenharia de Sistemas</b> na Universidade Federal de Minas Gerais (2023-2028)</p>
                         <p>- 👨‍💻 Conhecimento em <b>Redes de Computadores</b> no SENAI (2020-2021)</p>
+                    </div>
+                    <div class="row-blocks" style="margin-top: 4%">
+                        <h1>MEU PERFIL</h1>
+                        <p>- 💻 Conhecimento nas principais linguagens de programação</p>
+                        <p>- 🌐 Desenvolvimento web com as principais tecnologias do mercado</p>
+                        <p>- 🖥️ Conhecimento em redes de computadores e sistemas operacionais</p>
+                        <p>- 🚀 Habilidade em resolução de problemas e análise de dados</p>
+                        <p>- 🤝 Excelente trabalho em equipe e habilidades de comunicação</p>
+                        <p>- 🧠 Boa e fácil aprendizagem e adaptação</p>
                     </div>
                 </div>
 			</div>
