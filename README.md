@@ -1,7 +1,6 @@
 [![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/3w5oaj69ixrfqtdiy17fwpvwx?si=9d0057aa679648cb) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lucca-taumaturgo-de-oliveira) ![contador de visitas](https://komarev.com/ghpvc/?username=ofelipelucca)
 
-opa! meu nome é felipe :)
-<img src="avatar.png">
+<img src="avatar.png"> <img src="header.svg">
 
 |                                         |                                                         |
 |-----------------------------------------|---------------------------------------------------------|
@@ -10,5 +9,5 @@ opa! meu nome é felipe :)
 
 
 <div style="align: center; height: auto; width: auto;">
-	<a href="https://github.com/ofelipelucca?tab=repositories"><img src="README.svg" alt="Sobre mim e Meu perfil"></a>
+	<a href="https://github.com/ofelipelucca?tab=repositories"><img src="sobre.svg" alt="Sobre mim e Meu perfil"></a>
 </div>
