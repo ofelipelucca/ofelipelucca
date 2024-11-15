@@ -2,12 +2,12 @@
 
 ><img src="header.svg">
 
+<div style="align: center; height: auto; width: auto;">
+	<a href="https://github.com/ofelipelucca?tab=repositories"><img src="sobre.svg" alt="Sobre mim e Meu perfil"></a>
+</div>
+
 |                                         |                                                         |
 |-----------------------------------------|---------------------------------------------------------|
 | [![Portfolio-Dashboard-JS](https://github-readme-stats.vercel.app/api/pin/?username=ofelipelucca&repo=Portfolio-Dashboard-JS&theme=dark)](https://github.com/ofelipelucca/Portfolio-Dashboard-JS) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipelucca&hide_title=true&&card_width=400&layout=compact&theme=dark) |
 | [![JumpKing](https://github-readme-stats.vercel.app/api/pin/?username=ofelipelucca&repo=JumpKing-Jumping-in-Real-Life&theme=dark)](https://github.com/ofelipelucca/JumpKing-Jumping-in-Real-Life) | ![Estatísticas](https://github-readme-stats.vercel.app/api?username=ofelipelucca&show_icons=true&hide_title=true&count_private=true&&theme=dark) |
 
-
-<div style="align: center; height: auto; width: auto;">
-	<a href="https://github.com/ofelipelucca?tab=repositories"><img src="sobre.svg" alt="Sobre mim e Meu perfil"></a>
-</div>
