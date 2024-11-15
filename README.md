@@ -3,5 +3,4 @@
 <img src="header.svg" alt="Opa!">
 <img src="sobre.svg" alt="Sobre mim e meu perfil">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipelucca&custom_title=&card_width=400&layout=compact&theme=dark) ![Estatísticas](https://github-readme-stats.vercel.app/api?username=ofelipelucca&show_icons=true&hide_title=true&count_private=true&&theme=dark)
-
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=ofelipelucca&show_icons=true&hide_title=true&count_private=true&&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipelucca&custom_title=&card_width=1000&layout=compact&theme=dark)
