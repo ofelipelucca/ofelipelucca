@@ -45,8 +45,10 @@
 
 <!-- Widgets do Perfil -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ofelipelucca&show_icons=true&theme=default&text_color=ccff&title_color=ccff&hide_title=true&rank_icon=default&bg_color=0d1117&icon_color=bb86fc&hide_border=true&include_all_commits=true&count_private=true&locale=pt-BR" alt="Estatísticas de Felipe Lucca" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipelucca&layout=compact&text_color=ccff&title_color=ccff&bg_color=0d1117&hide_border=true&locale=pt-BR" alt="Linguagens mais usadas" />
+    <a href="https://github.com/ofelipelucca/">
+        <img src="https://github-readme-stats.vercel.app/api?username=ofelipelucca&show_icons=true&theme=default&text_color=ccff&title_color=ccff&hide_title=true&rank_icon=default&bg_color=0d1117&icon_color=bb86fc&hide_border=true&include_all_commits=true&count_private=true&locale=pt-BR" alt="Estatísticas de Felipe Lucca" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipelucca&layout=compact&text_color=ccff&title_color=ccff&bg_color=0d1117&hide_border=true&locale=pt-BR" alt="Linguagens mais usadas" />
+    </a>
 </div>
 
 
@@ -62,7 +64,9 @@
 
 <!-- Gif banner -->
 <div align="center">
-    <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Gif banner">
+    <a href="https://github.com/ofelipelucca/">
+        <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Gif banner">
+    </a>
 </div>
 
 <br>
