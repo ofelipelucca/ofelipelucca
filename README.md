@@ -43,15 +43,6 @@
 <hr>
 <br><br>
 
-<!-- Widgets do Perfil -->
-<div align="center">
-    <a href="https://github.com/ofelipelucca/">
-        <img src="https://github-readme-stats.vercel.app/api?username=ofelipelucca&show_icons=true&theme=default&text_color=ccff&title_color=ccff&hide_title=true&rank_icon=default&bg_color=0d1117&icon_color=bb86fc&hide_border=true&include_all_commits=true&count_private=true&locale=pt-BR" alt="Estatísticas de Felipe Lucca" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipelucca&layout=compact&text_color=ccff&title_color=ccff&bg_color=0d1117&hide_border=true&locale=pt-BR" alt="Linguagens mais usadas" />
-    </a>
-</div>
-
-
 <!-- Widget do Gráfico de Commits -->
 <br><br>
 <div align="center">
